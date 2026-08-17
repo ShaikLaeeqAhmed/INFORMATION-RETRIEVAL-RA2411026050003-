@@ -1,0 +1,1 @@
+Blockchain is a decentralized and distributed digital ledger that records transactions across many computers so that no single participant can alter the record retroactively without changing all subsequent blocks.

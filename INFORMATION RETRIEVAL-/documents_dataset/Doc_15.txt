@@ -1,0 +1,1 @@
+Natural language processing is a branch of artificial intelligence that helps computers understand, interpret, and generate human language, powering chatbots, translation tools, and voice assistants.

@@ -1,0 +1,1 @@
+Cloud computing delivers on-demand computing resources over the internet, such as servers, storage, databases, networking, software, and analytics, without direct active management by the user.

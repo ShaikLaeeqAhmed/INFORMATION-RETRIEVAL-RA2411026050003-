@@ -1,0 +1,1 @@
+Machine learning is a subset of artificial intelligence that enables systems to learn patterns from data and improve their performance on a specific task without being explicitly programmed.

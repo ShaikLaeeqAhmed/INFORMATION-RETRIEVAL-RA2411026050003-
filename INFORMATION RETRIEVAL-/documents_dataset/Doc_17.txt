@@ -1,0 +1,1 @@
+Computer vision enables machines to extract meaningful information from digital images and videos, enabling applications like facial recognition, autonomous vehicles, and medical image analysis.

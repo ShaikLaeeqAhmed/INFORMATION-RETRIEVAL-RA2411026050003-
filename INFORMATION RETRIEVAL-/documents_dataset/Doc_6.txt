@@ -1,0 +1,1 @@
+The Internet of Things connects everyday physical objects embedded with sensors, software, and network connectivity, enabling them to collect and exchange data across smart homes and cities.
